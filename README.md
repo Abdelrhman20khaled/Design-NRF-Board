@@ -46,7 +46,13 @@ The PCB layout is optimized for reliable wireless performance, taking care of th
 
 ## PCB Layout Images  
 
-<img "Images/Layout.jpg">
+- <img src="Images/Layout.jpg" width="500"/>
+- <img src="Images/GND Layer.jpg" width="500"/>
+- <img src="Images/Power Layer.jpg" width="500"/>
+- <img src="Images/Bottom Layer.jpg" width="500"/>
+- <img src="Images/3D_V1r.jpg" width="500"/>
+- <img src="Images3D_V2.jpg" width="500"/>
+
 ---
 
 ## Learning Outcomes  
